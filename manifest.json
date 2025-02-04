@@ -1,11 +1,11 @@
 {
-    "name": "Bu Mal",
-    "short_name": "Bu Mal",
+    "name": "Phoung Dai",
+    "short_name": "Phoung Dai",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Bu Mal",
+    "description": "Phoung Dai",
     "orientation": "portrait-primary",
     "icons": [
         {
